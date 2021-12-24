@@ -74,7 +74,7 @@
 										<div class="col-lg-4 col-md-4 mb-4 border p-2 ml-3">
 
 												<a href="<?= base_url('viewblog/').$pb->slug_blog ?>" class="hentry mb-30 v-height">
-													<img src="<?= base_url('imblog/').$pb->gambar_blog ?>" alt="Image placeholder" class="mx-auto d-block">
+													<img src="<?= base_url('imblog/').$pb->gambar_blog ?>" alt="Image" class="img-fluid mx-auto d-block" width="850px">
 													<div class="text gradient mt-2">
 														<h4><?= $pb->judul_blog ?></h4>
 														<div class="post-meta bg-light">
