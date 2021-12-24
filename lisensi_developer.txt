@@ -1,0 +1,6 @@
+1. Lisensi Design Web : Meranda Web made by colorlib
+2. Lisensi Halaman Dashboard : SB Admin Dark
+3. Lisensi Aplikasi Portal Web Media : M Yusuf Haryadi
+
+Aplikasi Portal Web Media bebas untuk digunakan dan dimodifikasi akan tetapi, 
+Sertakan lisensi ini pada modifikasi proyek kedepannya dan jangan menghapus lisensi ini.
