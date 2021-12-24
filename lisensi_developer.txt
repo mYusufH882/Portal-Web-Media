@@ -4,3 +4,12 @@
 
 Aplikasi Portal Web Media bebas untuk digunakan dan dimodifikasi akan tetapi, 
 Sertakan lisensi ini pada modifikasi proyek kedepannya dan jangan menghapus lisensi ini.
+
+Akun Admin :
+Email => admin@admin.com
+Password => password (huruf kecil semua)
+
+
+Akun Anggota :
+Email => ilyas@mail.com
+Password => admin1234
